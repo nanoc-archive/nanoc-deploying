@@ -1,15 +1,3 @@
-[![Build Status](https://travis-ci.org/nanoc/nanoc-deploying.png)](https://travis-ci.org/nanoc/nanoc-deploying)
-[![Code Climate](https://codeclimate.com/github/nanoc/nanoc-deploying.png)](https://codeclimate.com/github/nanoc/nanoc-deploying)
-[![Coverage Status](https://coveralls.io/repos/nanoc/nanoc-deploying/badge.png?branch=master)](https://coveralls.io/r/nanoc/nanoc-deploying)
+This repository was part of the initial attempt at writing nanoc 4. That attempt did not go as initially planned, and was cancelled mid May 2015.
 
-# nanoc-deploying
-
-TODO write me
-
-## Installation
-
-`gem install nanoc-deploying`
-
-## Usage
-
-TODO write me
+Do not despair! There is a _true_ nanoc 4, and it lives in the [nanoc/nanoc repository](http://github.com/nanoc/nanoc). For information about nanoc 4 and how to upgrade, consult the [nanoc 4 upgrade guide](http://nanoc.ws/docs/nanoc-4-upgrade-guide/).
